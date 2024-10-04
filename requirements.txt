@@ -1,0 +1,8 @@
+tensorflow
+transformers
+pillow
+nltk
+scikit-learn
+pygame
+opencv-python
+tf-keras
