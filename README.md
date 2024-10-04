@@ -71,7 +71,7 @@ This project implements the **PageRank algorithm**, the backbone of search engin
 
 This project implements a natural language processing (NLP) system to parse sentences and determine their grammatical structure using context-free grammars (CFG). The system identifies parts of speech and analyzes sentence syntax.
 
-![Example](./readme_images/pagerank.png)
+![Example](./readme_images/parser.png)
 
 ## 10. Shopping
 
