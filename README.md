@@ -65,7 +65,7 @@ An AI that learns to play **Nim**, a game where players take turns removing obje
 
 This project implements the **PageRank algorithm**, the backbone of search engines, to rank web pages based on their importance. It simulates how Google's search algorithm ranks pages by analyzing the link structure of the web.
 
-![Example](./readme_images/pagerank.png)
+![Example](./readme_images/page.png)
 
 ## 9. Parser
 
