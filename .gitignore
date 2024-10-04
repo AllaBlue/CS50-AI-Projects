@@ -1,0 +1,44 @@
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore attention project-specific files
+attention/attention_layer_head/
+
+# Ignore crossword project-specific files
+crossword/output.png
+
+# Ignore degrees project-specific files
+degrees/large/
+degrees/small/
+
+# Ignore shopping project-specific files
+shopping/shopping.csv
+
+# Ignore traffic project-specific files
+traffic/gtsrb/
+traffic/model.h5
+
+# Ignore environment and dependency management files
+*.env
+*.venv
+Pipfile
+Pipfile.lock
+poetry.lock
+
+# Ignore logs
+*.log
+*.out
+*.err
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints
+
+# Ignore temporary and backup files
+*.bak
+*.swp
+*.tmp
